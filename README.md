@@ -49,11 +49,15 @@ print(x)
 ```
 
 ## Output:
+
+
+<img width="1242" height="491" alt="Screenshot 2026-05-14 091139" src="https://github.com/user-attachments/assets/075645d3-cc13-4d7b-a566-da6ca9a48f6a" />
+
 <img width="1240" height="366" alt="Screenshot 2026-05-14 091157" src="https://github.com/user-attachments/assets/8bbe2da8-ca3e-413a-83f1-e4835bf5e360" />
 
 
 
-<img width="1242" height="491" alt="Screenshot 2026-05-14 091139" src="https://github.com/user-attachments/assets/075645d3-cc13-4d7b-a566-da6ca9a48f6a" />
+
 
 
 
